@@ -6,7 +6,7 @@ function App() {
   return (
   
    
-    <ArticlePageNew articleName={'School'}/>
+    <ArticlePageNew articleName={'React'}/>
    
   );
 }
